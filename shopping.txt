@@ -1,2 +1,4 @@
 - Chicken
 - Sugar
+- Apples
+- Butter
