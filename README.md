@@ -34,7 +34,7 @@ d9ddef6 (mom) Mom's shopping
 
 In this commit history, the oldest three commits do not have Timmy's changes to `todo.txt`, so we are not fulfilling the requirement of replaying the `shopping` changes *after* Timmy's commit.
 
-Finally, **the git commit or sequence of commands you use to accomplish this must be able to run without human supervision**, in particular without manual merge conflict resolution. A naive `git rebase` or `cherry-pick` does not fulfill this requirement.
+Finally, **the git command or sequence of commands you use to accomplish this must be able to run without human supervision**, in particular without manual merge conflict resolution. A naive `git rebase` or `cherry-pick` does not fulfill this requirement.
 
 ## Why would you want to do this?
 
